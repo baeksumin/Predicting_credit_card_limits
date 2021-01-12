@@ -25,5 +25,8 @@ R
 
 
 2. 상관분석
+
+<img width="500" alt="스크린샷 2021-01-12 오후 11 35 55" src="https://user-images.githubusercontent.com/49911177/104328224-f740ae80-552e-11eb-9104-7b6c64050b33.png">
+
 3. 회귀분석
 4. 결과
