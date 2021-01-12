@@ -18,7 +18,7 @@ R
 
 1. 전처리
 
-<img width="1000" alt="스크린샷 2021-01-12 오후 11 23 31" src="https://user-images.githubusercontent.com/49911177/104326651-4e458400-552d-11eb-8476-77cfbb919c57.png">
+<img width="500" alt="스크린샷 2021-01-12 오후 11 23 31" src="https://user-images.githubusercontent.com/49911177/104326651-4e458400-552d-11eb-8476-77cfbb919c57.png">
 
 
 
