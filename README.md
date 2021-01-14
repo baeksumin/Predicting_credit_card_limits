@@ -37,6 +37,11 @@ R
 
 > 3. 회귀분석
 
+<img width="400" alt="스크린샷 2021-01-14 오후 7 57 53" src="https://user-images.githubusercontent.com/49911177/104582077-cb463a00-56a2-11eb-9419-636c68c47759.png"><img width="400" alt="스크린샷 2021-01-14 오후 7 58 14" src="https://user-images.githubusercontent.com/49911177/104582115-d731fc00-56a2-11eb-99de-4ac0f58487f1.png">
+<img width="400" alt="스크린샷 2021-01-14 오후 7 58 27" src="https://user-images.githubusercontent.com/49911177/104582137-e022cd80-56a2-11eb-966f-7b33c4e722b9.png"><img width="400" alt="스크린샷 2021-01-14 오후 7 58 39" src="https://user-images.githubusercontent.com/49911177/104582164-e6b14500-56a2-11eb-87c1-3fcbab46e7d2.png">
+<img width="400" alt="스크린샷 2021-01-14 오후 7 58 52" src="https://user-images.githubusercontent.com/49911177/104582198-ee70e980-56a2-11eb-939e-dc5a45bfb91b.png"><img width="400" alt="스크린샷 2021-01-14 오후 7 59 06" src="https://user-images.githubusercontent.com/49911177/104582229-f761bb00-56a2-11eb-822a-ef638405902e.png">
+<img width="400" alt="스크린샷 2021-01-14 오후 7 59 33" src="https://user-images.githubusercontent.com/49911177/104582282-06486d80-56a3-11eb-9355-9f68052ccef2.png"><img width="400" alt="스크린샷 2021-01-14 오후 7 59 45" src="https://user-images.githubusercontent.com/49911177/104582303-0e081200-56a3-11eb-9134-18c7e2258396.png">
+
 
 
 
