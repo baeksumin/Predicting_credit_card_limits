@@ -50,7 +50,7 @@ R
 - Rating을 제거하였을 때의 회귀분석 결과와 Balance를 제거하였을 때의 회귀분석 결과를 비교해보았다.
 - 수정된 R값이 더 큰 Balance를 제거한 모델을 사용하기로 한다.
 
-<img width="400" alt="스크린샷 2021-01-14 오후 7 58 52" src="https://user-images.githubusercontent.com/49911177/104582198-ee70e980-56a2-11eb-939e-dc5a45bfb91b.png">     <img width="400" alt="스크린샷 2021-01-14 오후 7 59 06" src="https://user-images.githubusercontent.com/49911177/104582229-f761bb00-56a2-11eb-822a-ef638405902e.png" >
+
 <img width="400" alt="스크린샷 2021-01-14 오후 7 59 33" src="https://user-images.githubusercontent.com/49911177/104582282-06486d80-56a3-11eb-9355-9f68052ccef2.png">     <img width="400" alt="스크린샷 2021-01-14 오후 7 59 45" src="https://user-images.githubusercontent.com/49911177/104582303-0e081200-56a3-11eb-9134-18c7e2258396.png">
 - 선형성, 정규성, 등분산성을 모두 충족한다.
 - 다중공선성 검사 결과에도 문제가 없다.
