@@ -58,3 +58,6 @@ R
 
 
 > 4. 결과
+
+<img width="400" alt="스크린샷 2021-01-14 오후 8 10 40" src="https://user-images.githubusercontent.com/49911177/104583529-96d37d80-56a4-11eb-95dd-2a2ee527b656.png">
+- 위와 같은 회귀식을 세울 수 있다.
