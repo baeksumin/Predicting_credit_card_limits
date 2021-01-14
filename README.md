@@ -39,6 +39,7 @@ R
 > 3. 회귀분석
 
 <img width="420" alt="스크린샷 2021-01-14 오후 7 57 53" src="https://user-images.githubusercontent.com/49911177/104582077-cb463a00-56a2-11eb-9419-636c68c47759.png"> 
+
 - 먼저 모든 피처를 고려하여 회귀분석을 실시하였다.
 
 <img width="420" alt="스크린샷 2021-01-14 오후 7 58 14" src="https://user-images.githubusercontent.com/49911177/104582115-d731fc00-56a2-11eb-99de-4ac0f58487f1.png">      <img width="420" alt="스크린샷 2021-01-14 오후 7 58 27" src="https://user-images.githubusercontent.com/49911177/104582137-e022cd80-56a2-11eb-966f-7b33c4e722b9.png">       <img width="420" alt="스크린샷 2021-01-14 오후 7 58 39" src="https://user-images.githubusercontent.com/49911177/104582164-e6b14500-56a2-11eb-87c1-3fcbab46e7d2.png">
@@ -61,4 +62,5 @@ R
 > 4. 결과
 
 <img width="420" alt="스크린샷 2021-01-14 오후 8 10 40" src="https://user-images.githubusercontent.com/49911177/104583529-96d37d80-56a4-11eb-95dd-2a2ee527b656.png">
+
 - 위와 같은 회귀식을 세울 수 있다.
